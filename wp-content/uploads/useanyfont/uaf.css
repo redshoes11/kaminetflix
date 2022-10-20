@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'netflix-sans';
+					src: url('https://redshoes11.github.io/kaminetflix/wp-content/uploads/useanyfont/9683Netflix-Sans.woff2') format('woff2'),
+						url('https://redshoes11.github.io/kaminetflix/wp-content/uploads/useanyfont/9683Netflix-Sans.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.netflix-sans{font-family: 'netflix-sans' !important;}
+
+		
